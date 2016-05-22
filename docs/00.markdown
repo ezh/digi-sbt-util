@@ -1,0 +1,17 @@
+---
+out: index.html
+---
+
+digi-sbt-util
+========
+
+Utilities for SBT plugin.
+
+Bridge between SBT plugin and SLF4J.
+Hide org.slf4j.impl.StaticLoggerBinder in custom classloader.
+
+<hr/>
+
+> [Latest stable version - UNKNOWN]($stable$)
+
+> [Latest development version - UNKNOWN]($development$)
