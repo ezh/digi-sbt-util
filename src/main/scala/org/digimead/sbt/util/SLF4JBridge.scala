@@ -1,5 +1,5 @@
 /**
- * digi-sbt-slf4 - Bridge between SBT plugin and SLF4J.
+ * digi-sbt-util - Utilities for SBT plugin.
  *
  * Copyright (c) 2016 Alexey Aksenov ezh@ezh.msk.ru
  * All rights reserved.
